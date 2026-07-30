@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Bu yazılımı veya veriyi kullanırsanız lütfen aşağıdaki gibi künyelendirin."
+title: "Mesane kanserinin noninvaziv tanı ve takibinde en çok atıf alan 100 makale: analiz kodu ve türetilmiş veri"
+abstract: >-
+  Web of Science Core Collection (SCI-EXPANDED) üzerinden 2016-2025 döneminde mesane
+  kanserinin noninvaziv tanı ve takibi konusunda en çok atıf alan 100 makalenin
+  bibliyometrik analizinde kullanilan Python betikleri ve türetilmiş veri.
+  Ham WoS kayitlari tescillidir ve bu pakette yeniden dagitilmamaktadir.
+type: software
+authors:
+  - family-names: "Çatık"
+    given-names: "Alican"
+    affiliation: "Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi, İstanbul, Türkiye"
+    orcid: "https://orcid.org/0000-0002-0226-7804"
+version: "DOLDURULACAK"
+date-released: "DOLDURULACAK"
+license: MIT
+keywords:
+  - bibliyometri
+  - mesane kanseri
+  - noninvaziv tanı
+  - atıf analizi
+  - Web of Science
